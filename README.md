@@ -1,7 +1,5 @@
 # copilot-test
 
-ELDER
+Spring4 - API REST para Gerenciamento de Animes
 
-elder 2
-
-dddrerere
+Este é um projeto Spring Boot 3.5.7 desenvolvido em Java 21 que implementa uma API REST para gerenciar informações sobre animes. A aplicação possui uma arquitetura em camadas com controller, service e model, seguindo as melhores práticas do Spring Framework. O modelo principal é a entidade Anime com propriedades como id, nome e número de episódios. A API oferece endpoints para listar todos os animes, buscar por ID, criar novos animes através de DTOs e atualizar o número de episódios. O projeto utiliza Maven como gerenciador de dependências e inclui Spring Boot Actuator para monitoramento, DevTools para desenvolvimento e Lombok para reduzir código boilerplate. Possui testes unitários abrangentes para controllers e services usando Spring Boot Test. É um projeto educacional do curso Udemy sobre GitHub Copilot, demonstrando conceitos fundamentais de desenvolvimento de APIs REST com Spring Boot. A aplicação está configurada para execução local e inclui integração com GitHub Actions para automação de testes.
